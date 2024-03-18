@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 15 Mar 2024 19:44:42 at https://www.creme.digital/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://www.creme.digital/
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f0#f -F  -%F  -%l "en, *" https://www.creme.digital/ -O1 "D:\Downloads\creme\creme" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://www.creme.digital/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:47:15	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.creme.digital/post/swapstack-another-no-code-success-story (from https://www.creme.digital/blogs)
+19:47:27	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.creme.digital/post/addressing-5-no-code-misconceptions (from https://www.creme.digital/blogs)
+19:48:02	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.creme.digital/post/netflix-saas-company (from https://www.creme.digital/blogs)
+19:48:02	Error: 	"Not Found" (404) at link https://www.creme.digital/0006d89cc0c244e39367bf4d7bcd5aae?pvs=25 (from https://www.creme.digital/post/bubbles-new-features-expanding-the-power-of-no-code)
+19:48:02	Error: 	"Not Found" (404) at link https://www.creme.digital/contact-us (from https://www.creme.digital/post/how-to-build-a-faq-page-in-bubble)
+19:48:02	Error: 	"Not Found" (404) at link https://www.creme.digital/blog-posts/what-you-can-build-with-no-code-8-use-cases-of-no-code-app-development (from https://www.creme.digital/post/why-over-75-of-product-launches-fail-a-guide-to-successfully-launching-your-digital-product)
+19:48:02	Error: 	"Not Found" (404) at link https://www.creme.digital/blog-posts/7-reasons-why-low-code-mvp-development-might-be-the-right-choice (from https://www.creme.digital/post/what-you-can-build-with-no-code-8-use-cases-of-no-code-app-development)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 22 seconds : 319 links scanned, 311 files written (128072506 bytes overall) [125759501 bytes received at 622571 bytes/sec], 3501941 bytes transferred using HTTP compression in 86 files, ratio 27%, 10.7 requests per connection
+(4 errors, 3 warnings, 0 messages)
